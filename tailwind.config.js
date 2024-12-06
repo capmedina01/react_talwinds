@@ -5,7 +5,6 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
     screens: {
       sm: { max: "639px" },
       // => @media (max-width: 639px) { ... }
